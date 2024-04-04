@@ -1,16 +1,4 @@
-# flutter_docker_hot_reload
+# Flutter web in Docker with a Functioning hot Reload
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+You can find the related Medium post on the following link:
+[Hacking Flutter’s Hot Restart for Web — Developing with Flutter in Docker](https://medium.com/@andrejtaneski/hacking-flutters-hot-restart-for-web-developing-with-flutter-in-docker-3c8acc9a8cc7)
