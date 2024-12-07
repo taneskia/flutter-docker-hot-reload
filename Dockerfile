@@ -1,4 +1,4 @@
-FROM  cirrusci/flutter:3.7.7 as build
+FROM  cirrusci/flutter:3.7.7 AS build
 
 RUN apt update
 RUN apt install -y tmux inotify-tools net-tools
